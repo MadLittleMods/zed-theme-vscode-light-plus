@@ -2,6 +2,11 @@
 
 Port of the Light+ (Default Light+) theme from Visual Studio Code to Zed.
 
+Zed | VSCode
+--- | ---
+![Zed example with Light+](./screenshots/zed/zed-vscode-light-plus-theme1.png) | ![VSCode example with Light+](./screenshots/vscode/vscode-light-plus-theme1.png)
+![Zed example with Light+](./screenshots/zed/zed-vscode-light-plus-theme2.png) | ![VSCode example with Light+](./screenshots/vscode/vscode-light-plus-theme2.png)
+
 
 ## Installation
 
