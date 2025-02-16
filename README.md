@@ -29,6 +29,7 @@ arch-based Linux). See the following issues for more context:
 
  - https://github.com/zed-industries/zed/issues/9057
  - https://github.com/zed-industries/zed/issues/19100
+ - https://github.com/zed-industries/zed/discussions/6485#discussioncomment-4937330
  - https://github.com/zed-industries/zed/issues/17890
  - https://github.com/zed-industries/zed/issues/8293#issuecomment-2299761507
  - https://github.com/zed-industries/zed/issues/15521
