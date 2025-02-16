@@ -34,7 +34,7 @@ References:
 
 ## Zed theme development
 
-> Themes are stored in the `themes/` subdirectory under the Zed config: `~/.zed/themes/`.
+> Themes are stored in the `themes/` subdirectory under the Zed config: `~/.config/zed/themes/`.
 >
 > *-- https://zed.dev/blog/user-themes-now-in-preview*
 
@@ -45,6 +45,22 @@ this [JSON schema
 viewer](https://json-schema.app/view/%23%2Fdefinitions%2FThemeStyleContent?url=https%3A%2F%2Fzed.dev%2Fschema%2Fthemes%2Fv0.2.0.json)
 from Atlassian.
 
+
+### Locally link theme/extension
+
+To test a theme file, you can locally link the theme file to `~/.config/zed/themes/`.
+
+```sh
+ln -s ~/Documents/github/zed-theme-vscode-light-plus/themes/vscode-light-plus.json ~/.config/zed/themes/vscode-light-plus.json
+```
+
+To test the extension as a whole, you can locally link the repo to [installed extension
+location](https://zed.dev/docs/extensions/installing-extensions#installation-location)
+and run `Zed: reload extensions` command in Zed editor to get it to show up.
+
+```sh
+ln -s ~/Documents/github/zed-theme-vscode-light-plus ~/.local/share/zed/extensions/installed/vscode-light-plus
+```
 
 References:
 
