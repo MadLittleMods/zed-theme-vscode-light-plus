@@ -1,0 +1,7 @@
+id = "vscode-light-plus"
+name = "VSCode Light+"
+version = "0.0.1"
+schema_version = 1
+authors = ["Eric Eastwood <contact@ericeastwood.com>"]
+description = "Port of the VSCode Light+ theme to Zed"
+repository = "https://github.com/MadLittleMods/zed-theme-vscode-light-plus"
