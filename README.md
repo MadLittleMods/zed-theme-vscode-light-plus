@@ -10,9 +10,10 @@ Zed | VSCode
 
 ## Installation
 
-You can install the theme from the official Zed extension repository: open the command
-palette (<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>) and run `zed: extensions`. Search
-for `VSCode Light+` and install it. Pick the theme in the theme selector with
+You can install the theme from the official [Zed extension
+repository](https://zed.dev/extensions): open the command palette
+(<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>) and run `zed: extensions`. Search for
+`VSCode Light+` and install it. Pick the theme in the theme selector with
 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> -> `theme selector: toggle` -> `VSCode
 Light+`.
 
