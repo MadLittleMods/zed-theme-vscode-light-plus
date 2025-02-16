@@ -157,6 +157,29 @@
             "selection": "#669f593d"
           }
         ],
+        // Terminal
+        // ----------------------------------
+        "terminal.background": "#ffffff",
+        "terminal.ansi.background": "#ffffff",
+        "terminal.foreground": "#333333",
+        "terminal.bright_foreground": "#000000",
+        "terminal.dim_foreground": "#666666",
+        "terminal.ansi.black": "#000000", // black (0)
+        "terminal.ansi.red": "#cd3131", // red (1)
+        "terminal.ansi.green": "#107c10", // green (2)
+        "terminal.ansi.yellow": "#949800", // yellow (3)
+        "terminal.ansi.blue": "#0451a5", // blue (4)
+        "terminal.ansi.magenta": "#bc05bc", // magenta (5)
+        "terminal.ansi.cyan": "#0598bc", // cyan (6)
+        "terminal.ansi.white": "#555555", // white (7)
+        "terminal.ansi.bright_black": "#666666", // bright black (8)
+        "terminal.ansi.bright_red": "#cd3131", // bright red (9)
+        "terminal.ansi.bright_green": "#14ce14", // bright green (10)
+        "terminal.ansi.bright_yellow": "#b5ba00", // bright yellow (11)
+        "terminal.ansi.bright_blue": "#0451a5", // bright blue (12)
+        "terminal.ansi.bright_magenta": "#bc05bc", // bright magenta (13)
+        "terminal.ansi.bright_cyan": "#0598bc", // bright cyan (14)
+        "terminal.ansi.bright_white": "#a5a5a5", //  brightwhite (15)
         // Syntax highlighting
         // ----------------------------------
         "syntax": {
