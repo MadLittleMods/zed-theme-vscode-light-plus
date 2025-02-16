@@ -202,21 +202,51 @@
             "font_style": null,
             "font_weight": null
           },
+          "emphasis": {
+            "color": "#5c78e2ff",
+            "font_style": null,
+            "font_weight": null
+          },
           "emphasis.strong": {
             "color": "#000080",
             "background_color": null,
             "font_style": null,
             "font_weight": 700
           },
+          // "enum": {
+          //   "color": "#d3604fff",
+          //   "font_style": null,
+          //   "font_weight": null
+          // },
           "function": {
             "color": "#795E26",
             "background_color": null,
             "font_style": null,
             "font_weight": null
           },
+          // "hint": {
+          //   "color": "#7274a7ff",
+          //   "font_style": null,
+          //   "font_weight": 700
+          // },
           "keyword": {
             "color": "#0000FF",
             "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          // "label": {
+          //   "color": "#5c78e2ff",
+          //   "font_style": null,
+          //   "font_weight": null
+          // },
+          "link_text": {
+            "color": "#5b79e3ff",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "link_uri": {
+            "color": "#3882b7ff",
             "font_style": null,
             "font_weight": null
           },
@@ -232,12 +262,22 @@
             "font_style": null,
             "font_weight": null
           },
+          // "predictive": {
+          //   "color": "#9b9ec6ff",
+          //   "font_style": "italic",
+          //   "font_weight": null
+          // },
           "preproc": {
             "color": "#0000FF",
             "background_color": null,
             "font_style": null,
             "font_weight": null
           },
+          // "primary": {
+          //   "color": "#242529ff",
+          //   "font_style": null,
+          //   "font_weight": null
+          // },
           "property": {
             "color": "#E50000",
             "background_color": null,
@@ -263,7 +303,7 @@
             "font_weight": null
           },
           "punctuation.list_marker": {
-            "color": "#800000",
+            "color": "#0451a5",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -316,6 +356,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "title": {
+            "color": "#d3604fff",
+            "font_style": null,
+            "font_weight": 400
+          },
           "type": {
             "color": "#267F99",
             "background_color": null,
@@ -333,7 +378,12 @@
             "background_color": null,
             "font_style": null,
             "font_weight": null
-          }
+          },
+          // "variant": {
+          //   "color": "#5b79e3ff",
+          //   "font_style": null,
+          //   "font_weight": null
+          // }
         }
       }
     }

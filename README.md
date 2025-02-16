@@ -39,7 +39,7 @@ arch-based Linux). See the following issues for more context:
 ### Syntax Highlighting
 
 Zed's bundled `highlights.scm` files at
-`https://github.com/zed-industries/zed/tree/main/crates/languages/src` often do not
+https://github.com/zed-industries/zed/tree/main/crates/languages/src often do not
 define all the queries for syntax nodes needed to style the theme. This means that some
 syntax nodes have different colors when compared to the original theme.
 
