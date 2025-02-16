@@ -8,7 +8,8 @@ A collection of references and notes while developing this project.
 In VSCode, use `Developer: Generate Color Theme From Current Settings` from the command
 pallete  to generate a JSON file with the colors of the current theme. The commented out
 lines in the JSON file are the default values being used but not specifically set in the
-theme.
+theme. It's best to uncomment these lines if you plan to run it through the Zed theme
+importer.
 
 (source: https://stackoverflow.com/questions/47970372/how-to-get-the-colors-of-the-current-theme-in-vs-code)
 
@@ -48,9 +49,10 @@ from Atlassian.
 
 ### Locally link theme/extension
 
-There is a `zed: install dev extension` command (also accessible in the top-right corner
-of the Extensions page) that will bring up a file picker to select the cloned repo. This
-will symlink the repo to the Zed installed extensions directory.
+There is a `zed: install dev extension` command (also accessible as a `Install Dev
+Extension` button in the top-right corner of the Extensions page) that will bring up a
+file picker to select the cloned repo. This will symlink the repo to the Zed installed
+extensions directory.
 
 <details>
 <summary>Or if you prefer to do this manually:</summary>
@@ -75,3 +77,4 @@ ln -s ~/Documents/github/zed-theme-vscode-light-plus ~/.local/share/zed/extensio
 References:
 
  - https://zed.dev/docs/extensions/themes
+ - https://zed.dev/docs/extensions/developing-extensions

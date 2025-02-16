@@ -36,7 +36,7 @@ arch-based Linux). See the following issues for more context:
  - Even the theme previews on [zed-themes.com](https://zed-themes.com/) are much more
    vibrant because the browser is rendering things as expected.
 
-Zed on Linux | Zed on macOS
+Zed on Linux (dim) | Zed on macOS (normal)
 --- | ---
 ![Zed on Linux has dim and washed out colors](./screenshots/zed/zed-linux-vscode-light-plus-theme1.png) | <img alt="Zed on macOS looks normal" src="./screenshots/zed/zed-macos-vscode-light-plus-theme1.png" width="1230">
 ![Zed on Linux has dim and washed out colors](./screenshots/zed/zed-linux-vscode-light-plus-theme2.png) | <img alt="Zed on macOS looks normal" src="./screenshots/zed/zed-macos-vscode-light-plus-theme2.png" width="1230">
