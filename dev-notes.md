@@ -48,6 +48,13 @@ from Atlassian.
 
 ### Locally link theme/extension
 
+There is a `zed: install dev extension` command (also accessible in the top-right corner
+of the Extensions page) that will bring up a file picker to select the cloned repo. This
+will symlink the repo to the Zed installed extensions directory.
+
+<details>
+<summary>Or if you prefer to do this manually:</summary>
+
 To test a theme file, you can locally link the theme file to `~/.config/zed/themes/`.
 
 ```sh
@@ -56,11 +63,14 @@ ln -s ~/Documents/github/zed-theme-vscode-light-plus/themes/vscode-light-plus.js
 
 To test the extension as a whole, you can locally link the repo to [installed extension
 location](https://zed.dev/docs/extensions/installing-extensions#installation-location)
-and run `Zed: reload extensions` command in Zed editor to get it to show up.
+and run `zed: reload extensions` command in Zed editor to get it to show up.
 
 ```sh
 ln -s ~/Documents/github/zed-theme-vscode-light-plus ~/.local/share/zed/extensions/installed/vscode-light-plus
 ```
+
+</details>
+
 
 References:
 
