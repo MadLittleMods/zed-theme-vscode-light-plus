@@ -4,8 +4,8 @@ Port of the Light+ (Default Light+) theme from Visual Studio Code to Zed.
 
 Zed | VSCode
 --- | ---
-![Zed example with Light+](./screenshots/zed/zed-macos-vscode-light-plus-theme1.png) | ![VSCode example with Light+](./screenshots/vscode/vscode-light-plus-theme1.png)
-![Zed example with Light+](./screenshots/zed/zed-macos-vscode-light-plus-theme2.png) | ![VSCode example with Light+](./screenshots/vscode/vscode-light-plus-theme2.png)
+<img alt="Zed example with Light+" src="./screenshots/zed/zed-macos-vscode-light-plus-theme1.png" width="1230"> | ![VSCode example with Light+](./screenshots/vscode/vscode-light-plus-theme1.png)
+<img alt="Zed example with Light+" src="./screenshots/zed/zed-macos-vscode-light-plus-theme2.png" width="1230"> | ![VSCode example with Light+](./screenshots/vscode/vscode-light-plus-theme2.png)
 
 
 ## Installation
@@ -38,8 +38,8 @@ arch-based Linux). See the following issues for more context:
 
 Zed on Linux | Zed on macOS
 --- | ---
-![Zed on Linux has dim and washed out colors](./screenshots/zed/zed-linux-vscode-light-plus-theme1.png) | ![Zed on macOS looks normal](./screenshots/zed/zed-macos-vscode-light-plus-theme1.png)
-![Zed on Linux has dim and washed out colors](./screenshots/zed/zed-linux-vscode-light-plus-theme2.png) | ![Zed on macOS looks normal](./screenshots/zed/zed-macos-vscode-light-plus-theme2.png)
+![Zed on Linux has dim and washed out colors](./screenshots/zed/zed-linux-vscode-light-plus-theme1.png) | <img alt="Zed on macOS looks normal" src="./screenshots/zed/zed-macos-vscode-light-plus-theme1.png " width="1230">
+![Zed on Linux has dim and washed out colors](./screenshots/zed/zed-linux-vscode-light-plus-theme2.png) | <img alt="Zed on macOS looks normal" src="./screenshots/zed/zed-macos-vscode-light-plus-theme2.png " width="1230">
 
 
 ### Syntax Highlighting
