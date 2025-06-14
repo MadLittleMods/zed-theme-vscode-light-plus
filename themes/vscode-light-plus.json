@@ -51,11 +51,12 @@
         "panel.indent_guide_active": "#616161",
         "panel.indent_guide_hover": "#e4e6f1",
         // Scrollbar
-        "scrollbar.thumb.background": "#dddddd",
-        "scrollbar.thumb.hover_background": "#f00",
-        "scrollbar.thumb.border": "#dddddd",
+        "scrollbar.thumb.background": "#c1c1c1",
+        "scrollbar.thumb.hover_background": "#929292",
+        "scrollbar.thumb.active_background": "#929292",
+        "scrollbar.thumb.border": "#c1c1c1",
         "scrollbar.track.background": "#00000000",
-        "scrollbar.track.border": "#dddddd",
+        "scrollbar.track.border": "#c1c1c1",
         // Elements like  Buttons, Inputs, Checkboxes, Radio Buttons
         // --------------------------------------------------------------
         // "element.background": "#f00",
